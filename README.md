@@ -1,4 +1,4 @@
-# Fast Task
+# Intro Fast API
 
 Projeto desenvolvido através do curso FastAPI do ZERO, ministrado pelo Eduardo Mendes
 

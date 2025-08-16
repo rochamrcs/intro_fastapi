@@ -16,7 +16,7 @@ dependencies = [
     "tzdata (>=2025.2,<2026.0)",
     "pwdlib[argon2] (>=0.2.1,<0.3.0)",
     "aiosqlite (>=0.21.0,<0.22.0)",
-    "psycopg[binary] (>=3.2.9,<4.0.0)"
+    "psycopg[binary] (>=3.2.9,<4.0.0)",
 ]
 
 
